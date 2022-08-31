@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Microsoft コミュニティ - 【SharePoint・Outlook】ゲストユーザーへのファイル共有時エラー</title><description /><language>ja-jp</language><a10:link href="https://answers.microsoft.com/ja-jp/msoffice/forum/msoffice_sharepoint-msoffice_ofb-mso_opwin/sharepointoutlook%E3%82%B2%E3%82%B9%E3%83%88/ddd59a01-95fd-40c5-856e-ff2e486036b0" /><item><guid isPermaLink="true">https://answers.microsoft.com/message/bfa8bff3-fc13-4eec-9380-a96f866d4474?threadId=ddd59a01-95fd-40c5-856e-ff2e486036b0</guid><link>https://answers.microsoft.com/message/bfa8bff3-fc13-4eec-9380-a96f866d4474?threadId=ddd59a01-95fd-40c5-856e-ff2e486036b0</link><a10:author><a10:name>KD.Tan</a10:name></a10:author><title>【SharePoint・Outlook】ゲストユーザーへのファイル共有時エラー</title><description>
+&lt;p&gt;相手方も Office 365 を利用していると思います。&lt;/p&gt;
+&lt;p&gt;また、 kimura hironori様のテナントは、O365を新規ご利用 or 試用版をご利用でしょうか？&lt;/p&gt;
+&lt;p&gt;(そうであれば、なおさらよくあることです)&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;いずれにせよ エラー中の [550 5.7.XXX] は、Microsoft が危険な IP と自動的に判断した場合のブロックである可能性が高いです。&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p class="contentHeader2"&gt;&lt;strong&gt;&amp;lt;対処方法&amp;gt;&lt;/strong&gt;&lt;/p&gt;
+Microsoft 365 管理センター (https://admin.microsoft.com/) から問い合わせて、対処を依頼しましょう。&lt;br /&gt;
+&lt;p&gt;※問い合わせの際、製品選択は [Exchange] です。&lt;/p&gt;
+</description><pubDate>Fri, 08 Jan 2021 11:34:24 Z</pubDate><a10:updated>2021-05-26T13:08:43Z</a10:updated><a10:contributor><a10:name>KD.Tan</a10:name></a10:contributor></item><item><guid isPermaLink="true">https://answers.microsoft.com/ja-jp/msoffice/forum/msoffice_sharepoint-msoffice_ofb-mso_opwin/sharepointoutlook%E3%82%B2%E3%82%B9%E3%83%88/ddd59a01-95fd-40c5-856e-ff2e486036b0</guid><link>https://answers.microsoft.com/ja-jp/msoffice/forum/msoffice_sharepoint-msoffice_ofb-mso_opwin/sharepointoutlook%E3%82%B2%E3%82%B9%E3%83%88/ddd59a01-95fd-40c5-856e-ff2e486036b0</link><a10:author><a10:name>kimura hironori</a10:name></a10:author><title>【SharePoint・Outlook】ゲストユーザーへのファイル共有時エラー</title><description>&lt;p style="color: rgba(32, 31, 30, 1)"&gt;&lt;strong&gt;&lt;span style="color: rgba(0, 0, 102, 1)"&gt;SharePointからゲストユーザーにファイルの共有を行ったところ&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="color: rgba(32, 31, 30, 1)"&gt;&lt;strong&gt;&lt;span style="color: rgba(0, 0, 102, 1)"&gt;以下エラーメールがoutlookで送られてきました。&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="color: rgba(32, 31, 30, 1)"&gt;
+&lt;/p&gt;&lt;p style="color: rgba(32, 31, 30, 1)"&gt;&lt;strong&gt;&lt;span style="color: rgba(0, 0, 102, 1)"&gt;Delivery has failed to these recipients or groups:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="color: rgba(32, 31, 30, 1)"&gt;&lt;span style="color: rgba(0, 0, 0, 1)"&gt;Your message wasn't delivered because the recipient's email provider rejected it.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="color: rgba(32, 31, 30, 1)"&gt;
+&lt;/p&gt;&lt;p style="color: rgba(128, 128, 128, 1)"&gt;
+&lt;strong&gt;Diagnostic information for administrators:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="color: rgba(128, 128, 128, 1)"&gt;
+Generating server: TYAP286MB0298.JPNP286.PROD.OUTLOOK.COM&lt;br /&gt;
+&lt;/p&gt;
+&lt;p style="color: rgba(128, 128, 128, 1)"&gt;
+***メールアドレスがプライバシーのために削除されました ***&lt;br /&gt;
+Remote Server returned '550 5.7.708 Service unavailable. Access denied, traffic not accepted from this IP. For more information please go to http://go.microsoft.com/fwlink/?LinkId=526653 AS(7230) [TYBP286MB0142.JPNP286.PROD.OUTLOOK.COM]'&lt;/p&gt;
+&lt;p style="color: rgba(32, 31, 30, 1)"&gt;
+&lt;/p&gt;&lt;p style="color: rgba(32, 31, 30, 1)"&gt;
+&lt;/p&gt;&lt;p style="color: rgba(32, 31, 30, 1)"&gt;&lt;strong&gt;&lt;span style="color: rgba(0, 0, 102, 1)"&gt;セキュリティ＆コンプライアンスセンター上で制御されたユーザーを確認したがいない&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="color: rgba(32, 31, 30, 1)"&gt;&lt;strong&gt;&lt;span style="color: rgba(0, 0, 102, 1)"&gt;また、以下リンクの設定を行ったが解決していません。&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="color: rgba(32, 31, 30, 1)"&gt;&lt;a href="https://www.itexperience.net/fix-office-365-forwarding-error-your-message-wasnt-delivered-because-the-recipients-email-provider-rejected-it/" target="_blank" rel="noreferrer nofollow"&gt;Fix Office 365 forwarding error Your message wasn't delivered
+ because the recipient's email provider rejected it. - ITExperience.NET&lt;/a&gt;&lt;/p&gt;
+&lt;p style="color: rgba(32, 31, 30, 1)"&gt;&lt;br /&gt;
+&lt;/p&gt;</description><pubDate>Fri, 08 Jan 2021 10:55:55 Z</pubDate><a10:updated>2022-04-28T01:29:40Z</a10:updated><a10:contributor><a10:name>kimura hironori</a10:name></a10:contributor><locale>ja-jp</locale></item></channel></rss>
